@@ -1,5 +1,5 @@
 name = input('What is your name?\n')
-print('Hi, %s.' % name)
+print('Hello, %s.' % name)
 feel = input('How do you feel?\n')
 print('Ok you feel, %s.' % feel)
 robot = input('Are you robot? Write yes or no\n')
